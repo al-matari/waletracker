@@ -52,5 +52,19 @@
     "updatedBy": "m.matari3@gmail.com",
     "description": "QUBY, Floki, Simon Cat",
     "updatedAt": 1732153258699
+  },
+  "0xd520e3662f2af962dd6b42ad5b26d6ffca561296": {
+    "name": "4-Mille schwer Walwallet",
+    "addressUrl": "https://etherscan.io/address/0xd520e3662f2af962dd6b42ad5b26d6ffca561296#multichain-portfolio",
+    "address": "0xd520e3662f2af962dd6b42ad5b26d6ffca561296",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "",
+    "id": "0xd520e3662f2af962dd6b42ad5b26d6ffca561296",
+    "createdAt": 1732153305276,
+    "updatedAt": 1732153305276
   }
 }
