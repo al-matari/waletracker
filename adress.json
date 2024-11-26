@@ -108,5 +108,19 @@
     "id": "0x222cfea345add6d5030662234c335c2f6af57218",
     "createdAt": 1732153444603,
     "updatedAt": 1732153444603
+  },
+  "js5Lja7zP5RCcTTpdNPB2SwRcUemBYJK8bZio4chzyw": {
+    "name": "sol address",
+    "addressUrl": "https://solscan.io/account/js5Lja7zP5RCcTTpdNPB2SwRcUemBYJK8bZio4chzyw#portfolio",
+    "address": "js5Lja7zP5RCcTTpdNPB2SwRcUemBYJK8bZio4chzyw",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "xing",
+    "id": "js5Lja7zP5RCcTTpdNPB2SwRcUemBYJK8bZio4chzyw",
+    "createdAt": 1732156198363,
+    "updatedAt": 1732156198363
   }
 }
