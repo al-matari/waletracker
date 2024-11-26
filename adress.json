@@ -26,5 +26,19 @@
     "id": "0x1Ad95af27e2672A255461B1c7962E0cbD940f0aC",
     "createdAt": 1732153166948,
     "updatedAt": 1732153166948
+  },
+  "0x5ec68a1a5a742b24c7b20ff19e375361a1ca279b": {
+    "name": "5-Mille schwer Walwallet",
+    "addressUrl": "https://etherscan.io/address/0x5ec68a1a5a742b24c7b20ff19e375361a1ca279b#multichain-portfolio",
+    "address": "0x5ec68a1a5a742b24c7b20ff19e375361a1ca279b",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "",
+    "id": "0x5ec68a1a5a742b24c7b20ff19e375361a1ca279b",
+    "createdAt": 1732153196586,
+    "updatedAt": 1732153196586
   }
 }
