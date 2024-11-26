@@ -94,5 +94,19 @@
     "id": "0xec400e8e71a439c786d9b8d7fb65b5e618822b3d",
     "createdAt": 1732153407161,
     "updatedAt": 1732153407161
+  },
+  "0x222cfea345add6d5030662234c335c2f6af57218": {
+    "name": "Unser Freund 1st Wallet",
+    "addressUrl": "https://etherscan.io/address/0x222cfea345add6d5030662234c335c2f6af57218#multichain-portfolio",
+    "address": "0x222cfea345add6d5030662234c335c2f6af57218",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "",
+    "id": "0x222cfea345add6d5030662234c335c2f6af57218",
+    "createdAt": 1732153444603,
+    "updatedAt": 1732153444603
   }
 }
