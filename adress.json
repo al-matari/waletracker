@@ -80,5 +80,19 @@
     "id": "0x8b1396f754b83afa1d06d273d5915d573b4f04ee",
     "createdAt": 1732153352844,
     "updatedAt": 1732153352844
+  },
+  "0xec400e8e71a439c786d9b8d7fb65b5e618822b3d": {
+    "name": "Unser Freund 2nd Wallet",
+    "addressUrl": "https://etherscan.io/address/0xec400e8e71a439c786d9b8d7fb65b5e618822b3d#multichain-portfolio",
+    "address": "0xec400e8e71a439c786d9b8d7fb65b5e618822b3d",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "",
+    "id": "0xec400e8e71a439c786d9b8d7fb65b5e618822b3d",
+    "createdAt": 1732153407161,
+    "updatedAt": 1732153407161
   }
 }
