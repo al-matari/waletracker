@@ -40,5 +40,17 @@
     "id": "0x5ec68a1a5a742b24c7b20ff19e375361a1ca279b",
     "createdAt": 1732153196586,
     "updatedAt": 1732153196586
+  },
+  "undefined": {
+    "name": "6-Mille schwer Walwalle",
+    "addressUrl": "https://etherscan.io/address/0xb16c60e0a93b73cd96bca5b0811715146b3f6fb4#multichain-portfolio",
+    "address": "0xb16c60e0a93b73cd96bca5b0811715146b3f6fb4",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "QUBY, Floki, Simon Cat",
+    "updatedAt": 1732153258699
   }
 }
