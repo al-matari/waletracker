@@ -122,5 +122,19 @@
     "id": "js5Lja7zP5RCcTTpdNPB2SwRcUemBYJK8bZio4chzyw",
     "createdAt": 1732156198363,
     "updatedAt": 1732156198363
+  },
+  "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp": {
+    "name": "goon",
+    "addressUrl": "https://solscan.io/account/2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp#portfolio",
+    "address": "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "m.matari3@gmail.com",
+    "updatedBy": "m.matari3@gmail.com",
+    "description": "",
+    "id": "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp",
+    "createdAt": 1732211387730,
+    "updatedAt": 1732211387730
   }
 }
