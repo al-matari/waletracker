@@ -10,5 +10,17 @@
     "createdAt": 1733013301236,
     "updatedBy": "m.matari3@gmail.com",
     "updatedAt": 1733013301236
+  },
+  "ETH-0xcf0c122c6b73ff809c693db761e7baebe62b6a2e-m.matari3@gmail.com": {
+    "id": "ETH-0xcf0c122c6b73ff809c693db761e7baebe62b6a2e-m.matari3@gmail.com",
+    "name": "FLOKI (FLOKI)",
+    "imageUrl": "https://etherscan.io/token/images/floki_32.png",
+    "address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "dexscreener": "https://dexscreener.com/ethereum/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e?maker=0xb16c60e0a93b73cd96bca5b0811715146b3f6fb4",
+    "chain": "ETH",
+    "createdBy": "m.matari3@gmail.com",
+    "createdAt": 1733014064542,
+    "updatedBy": "m.matari3@gmail.com",
+    "updatedAt": 1733014064542
   }
 }
