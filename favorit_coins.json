@@ -1,1 +1,14 @@
-{}
+{
+  "ETH-0x1121acc14c63f3c872bfca497d10926a6098aac5-m.matari3@gmail.com": {
+    "id": "ETH-0x1121acc14c63f3c872bfca497d10926a6098aac5-m.matari3@gmail.com",
+    "name": "Department Of Government Efficiency (DOGE)",
+    "imageUrl": "https://etherscan.io/token/images/dogegov_32.png",
+    "address": "0x1121acc14c63f3c872bfca497d10926a6098aac5",
+    "dexscreener": "https://dexscreener.com/ethereum/0x1121acc14c63f3c872bfca497d10926a6098aac5?maker=0xb16c60e0a93b73cd96bca5b0811715146b3f6fb4",
+    "chain": "ETH",
+    "createdBy": "m.matari3@gmail.com",
+    "createdAt": 1733013301236,
+    "updatedBy": "m.matari3@gmail.com",
+    "updatedAt": 1733013301236
+  }
+}
