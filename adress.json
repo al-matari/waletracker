@@ -150,5 +150,19 @@
     "id": "CPGJehH9NbBXS1DDE8VgjqH31b85GYgFUuLCUHuBuphp",
     "createdAt": 1736539098604,
     "updatedAt": 1736539098604
+  },
+  "CRVZj2CM7u5JgbNrUdZqHcySETwXZUbbHxprtydm3J5W": {
+    "name": "SOL_W_Fred",
+    "addressUrl": "https://solscan.io/account/CRVZj2CM7u5JgbNrUdZqHcySETwXZUbbHxprtydm3J5W",
+    "address": "CRVZj2CM7u5JgbNrUdZqHcySETwXZUbbHxprtydm3J5W",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "Akramalmaktry@gmail.com",
+    "updatedBy": "Akramalmaktry@gmail.com",
+    "description": "",
+    "id": "CRVZj2CM7u5JgbNrUdZqHcySETwXZUbbHxprtydm3J5W",
+    "createdAt": 1736539673623,
+    "updatedAt": 1736539673623
   }
 }
