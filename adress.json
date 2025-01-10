@@ -136,5 +136,19 @@
     "id": "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp",
     "createdAt": 1732211387730,
     "updatedAt": 1732211387730
+  },
+  "CPGJehH9NbBXS1DDE8VgjqH31b85GYgFUuLCUHuBuphp": {
+    "name": "SOL_T_NEUR",
+    "addressUrl": "https://solscan.io/account/CPGJehH9NbBXS1DDE8VgjqH31b85GYgFUuLCUHuBuphp",
+    "address": "CPGJehH9NbBXS1DDE8VgjqH31b85GYgFUuLCUHuBuphp",
+    "categories": [
+      "in radar"
+    ],
+    "createdBy": "Akramalmaktry@gmail.com",
+    "updatedBy": "Akramalmaktry@gmail.com",
+    "description": "",
+    "id": "CPGJehH9NbBXS1DDE8VgjqH31b85GYgFUuLCUHuBuphp",
+    "createdAt": 1736539098604,
+    "updatedAt": 1736539098604
   }
 }
